@@ -1,0 +1,7 @@
+James=20
+Thinking=16
+Accept=13
+Yes=9
+No=4
+Jane=2
+
